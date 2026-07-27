@@ -140,6 +140,1647 @@
         }
       ]
     },
+
+
+    {
+      "id": "12239",
+      "title": "Forbidden Fruits",
+      "poster": "https://www.mytv-plus.net/image/movies/12239/71071947522fa32c7b084467d870b4af.jpeg",
+      "keys": [
+        "comedy",
+        "horror"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/ForbiddenFruits-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/ForbiddenFruits-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/ForbiddenFruits-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12238",
+      "title": "Apex",
+      "poster": "https://www.mytv-plus.net/image/movies/12238/cc71ea29684c02d308831869ab1529b4.png",
+      "keys": [
+        "action",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Apex-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Apex-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Apex-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12237",
+      "title": "The Wolf and the Lamb",
+      "poster": "https://www.mytv-plus.net/image/movies/12237/246f77dba00fe33acdad2d59123c923f.png",
+      "keys": [
+        "drama",
+        "horror",
+        "mystery"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheWolfAndTheLamb-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheWolfAndTheLamb-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheWolfAndTheLamb-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12236",
+      "title": "Dirty Hands",
+      "poster": "https://www.mytv-plus.net/image/movies/12236/991955b8d643f26f86509d2d2292af2d.png",
+      "keys": [
+        "action",
+        "crime"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/DirtyHands-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/DirtyHands-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/DirtyHands-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12235",
+      "title": "The Favor",
+      "poster": "https://www.mytv-plus.net/image/movies/12235/f443ba1e9c3f130a7467baca762647a7.png",
+      "keys": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/TheFavor-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/TheFavor-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/TheFavor-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12232",
+      "title": "Yiya Murano: Death at Tea Time",
+      "poster": "https://www.mytv-plus.net/image/movies/12232/e04dde1a1523cccc525bdbd371475b17.png",
+      "keys": [
+        "documentary"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/YiyaMuranoDeathAtTeaTime-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/YiyaMuranoDeathAtTeaTime-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/YiyaMuranoDeathAtTeaTime-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12231",
+      "title": "Scarlet",
+      "poster": "https://www.mytv-plus.net/image/movies/12231/8dbc3d1edba074e74b23164aafcabbf7.png",
+      "keys": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Scarlet-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Scarlet-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Scarlet-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12230",
+      "title": "Brute 1976",
+      "poster": "https://www.mytv-plus.net/image/movies/12230/6b8b5e4a7f660835ea0e85237d0cd690.png",
+      "keys": [
+        "horror"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Brute1976-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Brute1976-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Brute1976-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12228",
+      "title": "Lainey Wilson: Keepin Country Cool",
+      "poster": "https://www.mytv-plus.net/image/movies/12228/022c4ea9e66c7db91f836b6b14a8110b.png",
+      "keys": [
+        "documentary",
+        "biography",
+        "music"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/LaineyWilsonKeepinCountryCool-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/LaineyWilsonKeepinCountryCool-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/LaineyWilsonKeepinCountryCool-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12227",
+      "title": "Protector",
+      "poster": "https://www.mytv-plus.net/image/movies/12227/41148398484265a391b1bc8ba13769ea.png",
+      "keys": [
+        "action",
+        "crime",
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Protector-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Protector-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Protector-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12226",
+      "title": "Just Breathe",
+      "poster": "https://www.mytv-plus.net/image/movies/12226/b2339bb0c67678cd2a3d1fe788ced227.png",
+      "keys": [
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/JustBreathe-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/JustBreathe-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/JustBreathe-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12225",
+      "title": "Grow",
+      "poster": "https://www.mytv-plus.net/image/movies/12225/c36f07fda79656e241b2af2e6b7079c0.png",
+      "keys": [
+        "comedy",
+        "family"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Grow-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Grow-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Grow-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12224",
+      "title": "The Ruse",
+      "poster": "https://www.mytv-plus.net/image/movies/12224/007d39e5107c48be235176a87de967bf.png",
+      "keys": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2024/TheRuse-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2024/TheRuse-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2024/TheRuse-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12223",
+      "title": "Scurry",
+      "poster": "https://www.mytv-plus.net/image/movies/12223/c5768e43bbc512392c2430c1dd764930.png",
+      "keys": [
+        "horror",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2024/Scurry-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2024/Scurry-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2024/Scurry-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12222",
+      "title": "Untold: The Shooting at Hawthorne Hill",
+      "poster": "https://www.mytv-plus.net/image/movies/12222/ce679c0ae5cafb7535de9c369fd8938f.png",
+      "keys": [
+        "documentary"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/UntoldTheShootingAtHawthorneHill-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/UntoldTheShootingAtHawthorneHill-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/UntoldTheShootingAtHawthorneHill-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12221",
+      "title": "The Legend of Aang: The Last Airbender",
+      "poster": "https://www.mytv-plus.net/image/movies/12221/9dbe43525329100caca85f19395d54e8.png",
+      "keys": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheLegendOfAangTheLastAirbender-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheLegendOfAangTheLastAirbender-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheLegendOfAangTheLastAirbender-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12220",
+      "title": "The Gates",
+      "poster": "https://www.mytv-plus.net/image/movies/12220/75c368cab58778b05477b7bd21f69599.png",
+      "keys": [
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheGates-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheGates-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheGates-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12213",
+      "title": "Roommates",
+      "poster": "https://www.mytv-plus.net/image/movies/12213/ed7d02d467dc99e24e6d741f4e6b44d7.png",
+      "keys": [
+        "comedy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Roommates-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Roommates-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Roommates-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12212",
+      "title": "Revenge",
+      "poster": "https://www.mytv-plus.net/image/movies/12212/e5713152f5514a6f5ea4c99f24333d5a.png",
+      "keys": [
+        "action"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Revenge-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Revenge-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Revenge-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/Revenge-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12211",
+      "title": "Ramy Youssef: In Love",
+      "poster": "https://www.mytv-plus.net/image/movies/12211/dcd2d60cddbd955b76d4dcf478346b1f.png",
+      "keys": [
+        "comedy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/RamyYoussefInLove-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/RamyYoussefInLove-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/RamyYoussefInLove-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12210",
+      "title": "Moses the Black",
+      "poster": "https://www.mytv-plus.net/image/movies/12210/ca2fbe49eb765ba98f54bb6a24ecc5e5.png",
+      "keys": [
+        "crime",
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/MosesTheBlack-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/MosesTheBlack-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/MosesTheBlack-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12209",
+      "title": "Ballistic",
+      "poster": "https://www.mytv-plus.net/image/movies/12209/09e573ba62207179a6663196134338c3.png",
+      "keys": [
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Ballistic-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Ballistic-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Ballistic-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12208",
+      "title": "A Gorilla Story: Told by David Attenborough",
+      "poster": "https://www.mytv-plus.net/image/movies/12208/7bafde9ce3884380a90649d326836373.png",
+      "keys": [
+        "documentary"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/AGorillaStoryToldByDavidAttenborough-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/AGorillaStoryToldByDavidAttenborough-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/AGorillaStoryToldByDavidAttenborough-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12216",
+      "title": "Ride Away",
+      "poster": "https://www.mytv-plus.net/image/movies/12216/cf1dc7937dc7f6595dcc9b7bcf7e0f73.png",
+      "keys": [
+        "comedy",
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/RideAway-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/RideAway-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/RideAway-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12215",
+      "title": "The Whistler",
+      "poster": "https://www.mytv-plus.net/image/movies/12215/3513ac50fa353cbcefc0cdcf88068ae1.png",
+      "keys": [
+        "horror",
+        "mystery",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheWhistler-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheWhistler-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheWhistler-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12207",
+      "title": "180",
+      "poster": "https://www.mytv-plus.net/image/movies/12207/fc515051ea99a0a2060410256e13ad0a.png",
+      "keys": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/180-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/180-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/180-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/180-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12206",
+      "title": "Slanted",
+      "poster": "https://www.mytv-plus.net/image/movies/12206/39d94e3a1ecf976adb10eb3af7b4c27e.png",
+      "keys": [
+        "comedy",
+        "drama",
+        "horror"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Slanted-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Slanted-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Slanted-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12205",
+      "title": "Home Behind Bars",
+      "poster": "https://www.mytv-plus.net/image/movies/12205/b63052386d6c8533e7ac4ef92d0ec116.png",
+      "keys": [
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/HomeBehindBars-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/HomeBehindBars-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/HomeBehindBars-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12204",
+      "title": "Undertone",
+      "poster": "https://www.mytv-plus.net/image/movies/12204/d91ecbe059f1f7ea8b07b84e8fe5ad4f.png",
+      "keys": [
+        "horror",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Undertone-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Undertone-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Undertone-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12195",
+      "title": "Balls Up",
+      "poster": "https://www.mytv-plus.net/image/movies/12195/d97cee73f4238d5e53d03044a9384c8a.png",
+      "keys": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/BallsUp-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/BallsUp-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/BallsUp-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12184",
+      "title": "Reminders of Him",
+      "poster": "https://www.mytv-plus.net/image/movies/12184/1403379d27595d2ec785aaf863bf0f41.png",
+      "keys": [
+        "drama",
+        "romance"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/RemindersOfHim-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/RemindersOfHim-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/RemindersOfHim-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12183",
+      "title": "Wasteman",
+      "poster": "https://www.mytv-plus.net/image/movies/12183/e3f2e4ebbee715521c94e872fddc3789.png",
+      "keys": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Wasteman-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Wasteman-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Wasteman-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2025/Wasteman-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12182",
+      "title": "Timur",
+      "poster": "https://www.mytv-plus.net/image/movies/12182/2b57508f48c1bc17c33d2140a2292735.png",
+      "keys": [
+        "action",
+        "drama",
+        "history"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Timur-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Timur-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Timur-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12181",
+      "title": "Ghost Elephants",
+      "poster": "https://www.mytv-plus.net/image/movies/12181/fd47022992d4a195766e2ae6c75a95c0.png",
+      "keys": [
+        "documentary"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/GhostElephants-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/GhostElephants-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/GhostElephants-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12180",
+      "title": "Concrete Market",
+      "poster": "https://www.mytv-plus.net/image/movies/12180/72b99cda0534ff30a54809bd9ea98e2a.png",
+      "keys": [
+        "action",
+        "drama",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/ConcreteMarket-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/ConcreteMarket-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/ConcreteMarket-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12178",
+      "title": "Thrash",
+      "poster": "https://www.mytv-plus.net/image/movies/12178/71e51590b71190fde5cecec50a100d2b.png",
+      "keys": [
+        "thriller",
+        "horror"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Thrash-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Thrash-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Thrash-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12194",
+      "title": "Infiltrate",
+      "poster": "https://www.mytv-plus.net/image/movies/12194/b8df15ffd67802d0f85acf1bfbcb239c.png",
+      "keys": [
+        "action"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Infiltrate-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Infiltrate-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Infiltrate-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12189",
+      "title": "Pinecone",
+      "poster": "https://www.mytv-plus.net/image/movies/12189/9d14b429766bfeeace9315e4c1a4ae86.png",
+      "keys": [
+        "animation"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Pinecone-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Pinecone-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Pinecone-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12177",
+      "title": "Project Hail Mary",
+      "poster": "https://www.mytv-plus.net/image/movies/12177/8fe7f4f1ee2c0de6b5ec368de8159b98.png",
+      "keys": [
+        "drama",
+        "sci-fi",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/ProjectHailMary-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/ProjectHailMary-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/ProjectHailMary-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12176",
+      "title": "The Super Mario Galaxy Movie",
+      "poster": "https://www.mytv-plus.net/image/movies/12176/b927b3defdc6e52e105a852af5c35c3f.png",
+      "keys": [
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheSuperMarioGalaxyMovie-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheSuperMarioGalaxyMovie-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheSuperMarioGalaxyMovie-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12175",
+      "title": "Ready or Not 2: Here I Come",
+      "poster": "https://www.mytv-plus.net/image/movies/12175/9c559f8270fbf1ccc146f1c92c85a6bf.png",
+      "keys": [
+        "comedy",
+        "horror",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/ReadyOrNot2HereICome-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/ReadyOrNot2HereICome-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/ReadyOrNot2HereICome-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12174",
+      "title": "Outcome",
+      "poster": "https://www.mytv-plus.net/image/movies/12174/c602a26ce9312bcee2986d5ac834dfb1.png",
+      "keys": [
+        "crime",
+        "horror",
+        "mystery"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Outcome-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Outcome-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Outcome-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12173",
+      "title": "18th Rose",
+      "poster": "https://www.mytv-plus.net/image/movies/12173/a97a43fad8ff234799b75209302598c5.png",
+      "keys": [
+        "drama",
+        "romance"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/18thRose-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/18thRose-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/18thRose-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12169",
+      "title": "Sniper: No Nation",
+      "poster": "https://www.mytv-plus.net/image/movies/12169/525493d6b1cf0816aa70fad4477b4b8a.png",
+      "keys": [
+        "action"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/SniperNoNation-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/SniperNoNation-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/SniperNoNation-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12165",
+      "title": "Psycho Killer",
+      "poster": "https://www.mytv-plus.net/image/movies/12165/12d8589ceb757190de2f769f9afcb5e0.png",
+      "keys": [
+        "crime",
+        "horror",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/PsychoKiller-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/PsychoKiller-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/PsychoKiller-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/PsychoKiller-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12164",
+      "title": "Untold: Chess Mates",
+      "poster": "https://www.mytv-plus.net/image/movies/12164/c57b5f38663b479046f225c693726c47.png",
+      "keys": [
+        "documentary"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/UntoldChessMates-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/UntoldChessMates-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/UntoldChessMates-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12163",
+      "title": "Arco",
+      "poster": "https://www.mytv-plus.net/image/movies/12163/3e6c5711cc1e19397ee2fbd6c1af045e.png",
+      "keys": [
+        "animation",
+        "adventure",
+        "fantasy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Arco-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Arco-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Arco-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12162",
+      "title": "Calle Malaga",
+      "poster": "https://www.mytv-plus.net/image/movies/12162/5d3977d767ecaf0b74af27f4daf50b2a.png",
+      "keys": [
+        "drama",
+        "romance"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/CalleMalaga-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/CalleMalaga-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/CalleMalaga-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12161",
+      "title": "Tokyo Taxi",
+      "poster": "https://www.mytv-plus.net/image/movies/12161/dd58f4def64d1f42e4a11d70478e2480.png",
+      "keys": [
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/TokyoTaxi-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/TokyoTaxi-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/TokyoTaxi-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12160",
+      "title": "Once We Were Us",
+      "poster": "https://www.mytv-plus.net/image/movies/12160/ad35d19632373e9aace58393704cfa1e.png",
+      "keys": [
+        "drama",
+        "romance"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/OnceWeWereUs-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/OnceWeWereUs-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/OnceWeWereUs-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12157",
+      "title": "The Bride",
+      "poster": "https://www.mytv-plus.net/image/movies/12157/c04c57bb588a2f68481e40580c19d785.png",
+      "keys": [
+        "drama",
+        "horror",
+        "romance"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheBride-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheBride-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheBride-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/TheBride-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12154",
+      "title": "The Truth and Tragedy of Moriah Wilson",
+      "poster": "https://www.mytv-plus.net/image/movies/12154/7ebbf9220db9a1732ab5b49f3e4e1e2f.png",
+      "keys": [
+        "documentary",
+        "crime"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheTruthAndTragedyOfMoriahWilson-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheTruthAndTragedyOfMoriahWilson-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheTruthAndTragedyOfMoriahWilson-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12153",
+      "title": "Pizza Movie",
+      "poster": "https://www.mytv-plus.net/image/movies/12153/d1fb5554cb20e9a580255ae824529d4f.png",
+      "keys": [
+        "comedy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/PizzaMovie-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/PizzaMovie-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/PizzaMovie-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12152",
+      "title": "Feel My Voice",
+      "poster": "https://www.mytv-plus.net/image/movies/12152/7322ae88533e7ff2efb8af918103f606.png",
+      "keys": [
+        "comedy",
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/FeelMyVoice-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/FeelMyVoice-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/FeelMyVoice-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12146",
+      "title": "Untold The Death and Life Of Lamar Odom",
+      "poster": "https://www.mytv-plus.net/image/movies/12146/4adbaa7ebdb69f41ea5e0f73ed6469c9.png",
+      "keys": [
+        "crime",
+        "documentary",
+        "sport"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/UntoldTheDeathAndLifeOfLamarOdom-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/UntoldTheDeathAndLifeOfLamarOdom-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/UntoldTheDeathAndLifeOfLamarOdom-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12172",
+      "title": "Mudborn",
+      "poster": "https://www.mytv-plus.net/image/movies/12172/b0cf68f4033bcf674d14dbb37e718703.png",
+      "keys": [
+        "drama",
+        "horror",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Mudborn-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Mudborn-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Mudborn-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/Mudborn-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12145",
+      "title": "The Giant Falls",
+      "poster": "https://www.mytv-plus.net/image/movies/12145/39c1674f44251c47dd0284ee92b3c08a.png",
+      "keys": [
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheGiantFalls-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheGiantFalls-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheGiantFalls-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/TheGiantFalls-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12144",
+      "title": "Starbright",
+      "poster": "https://www.mytv-plus.net/image/movies/12144/2f036a35d84f6704edddc489c3b1eea6.png",
+      "keys": [
+        "action",
+        "crime",
+        "fantasy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Starbright-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Starbright-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Starbright-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12143",
+      "title": "It Takes a Village",
+      "poster": "https://www.mytv-plus.net/image/movies/12143/57863fe0169f1ccb0b3b0c7c6261ffff.png",
+      "keys": [
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/ItTakesAVillage-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/ItTakesAVillage-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/ItTakesAVillage-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12159",
+      "title": "How to Forget You",
+      "poster": "https://www.mytv-plus.net/image/movies/12159/32e904f695e0b93886bdf78f25a99461.png",
+      "keys": [
+        "drama",
+        "romance"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/HowToForgetYou-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/HowToForgetYou-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/HowToForgetYou-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12142",
+      "title": "Humint",
+      "poster": "https://www.mytv-plus.net/image/movies/12142/d50f8e9763d3688dafc300475c30d02a.png",
+      "keys": [
+        "action"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Humint-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Humint-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Humint-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/Humint-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12141",
+      "title": "Eat Pray Bark",
+      "poster": "https://www.mytv-plus.net/image/movies/12141/b92d400378d5ae3056faf02cd219cee1.png",
+      "keys": [
+        "comedy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/EatPrayBark-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/EatPrayBark-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/EatPrayBark-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12140",
+      "title": "Dolly",
+      "poster": "https://www.mytv-plus.net/image/movies/12140/0879c65cfcc956c44234e536809cb622.png",
+      "keys": [
+        "horror"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/Dolly-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/Dolly-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/Dolly-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2025/Dolly-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12136",
+      "title": "Wuthering Heights",
+      "poster": "https://www.mytv-plus.net/image/movies/12136/cd30713d91265aa3ad7d399e126f35b8.png",
+      "keys": [
+        "drama",
+        "romance"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/WutheringHeights-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/WutheringHeights-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/WutheringHeights-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/WutheringHeights-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12135",
+      "title": "Avatar: Fire and Ash",
+      "poster": "https://www.mytv-plus.net/image/movies/12135/e4d86edc1f02b7d2f2f54918500653ed.png",
+      "keys": [
+        "animation",
+        "action",
+        "adventure"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/AvatarFireAndAsh-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/AvatarFireAndAsh-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/AvatarFireAndAsh-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2025/AvatarFireAndAsh-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12134",
+      "title": "The Red Line",
+      "poster": "https://www.mytv-plus.net/image/movies/12134/d0b4641e5d35baa9a9575bc0001e02c9.png",
+      "keys": [
+        "crime",
+        "drama",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheRedLine-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheRedLine-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheRedLine-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12133",
+      "title": "Mike and Nick and Nick and Alice",
+      "poster": "https://www.mytv-plus.net/image/movies/12133/444a625dd1a7e189790684dd1f6d06c2.png",
+      "keys": [
+        "action",
+        "comedy",
+        "crime"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/MikeAndNickAndNickAndAlice-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/MikeAndNickAndNickAndAlice-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/MikeAndNickAndNickAndAlice-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/MikeAndNickAndNickAndAlice-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12132",
+      "title": "Hoppers",
+      "poster": "https://www.mytv-plus.net/image/movies/12132/c5404b8efdfeda938461a5f4691ebf54.png",
+      "keys": [
+        "animation",
+        "adventure",
+        "comedy"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Hoppers-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Hoppers-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Hoppers-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/Hoppers-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12131",
+      "title": "BTS: The Return",
+      "poster": "https://www.mytv-plus.net/image/movies/12131/c13e54922945d3d4771ab28ca26835da.png",
+      "keys": [
+        "documentary",
+        "music"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/BTSTheReturn-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/BTSTheReturn-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/BTSTheReturn-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12130",
+      "title": "BTS the Comeback Live: Arirang",
+      "poster": "https://www.mytv-plus.net/image/movies/12130/d4100d66669eb759e264ddc7bfc9c410.png",
+      "keys": [
+        "music"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/BTSTheComebackLiveArirang-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/BTSTheComebackLiveArirang-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/BTSTheComebackLiveArirang-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12129",
+      "title": "53 Sundays",
+      "poster": "https://www.mytv-plus.net/image/movies/12129/2cc98d5ab201270803815bfcd2345c6d.png",
+      "keys": [
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/53Sundays-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/53Sundays-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/53Sundays-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/53Sundays-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12128",
+      "title": "Song Sung Blue",
+      "poster": "https://www.mytv-plus.net/image/movies/12128/12ddde0cd160141bca4e57bcd0b3e7dc.png",
+      "keys": [
+        "biography",
+        "drama",
+        "history"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/SongSungBlue-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/SongSungBlue-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/SongSungBlue-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12127",
+      "title": "Beneath the Light",
+      "poster": "https://www.mytv-plus.net/image/movies/12127/3f901ffa8c1dc951ed54f79d933a6274.png",
+      "keys": [
+        "horror",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/BeneathTheLight-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/BeneathTheLight-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/BeneathTheLight-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2025/BeneathTheLight-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12126",
+      "title": "A Poet",
+      "poster": "https://www.mytv-plus.net/image/movies/12126/94cbb398688cd105911b3e2e00a56fb2.png",
+      "keys": [
+        "comedy",
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2025/APoet-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/APoet-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/APoet-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12125",
+      "title": "Pretty Lethal",
+      "poster": "https://www.mytv-plus.net/image/movies/12125/ac997f8db93861ead8163cf62196098e.png",
+      "keys": [
+        "action",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/PrettyLethal-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/PrettyLethal-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/PrettyLethal-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/PrettyLethal-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12122",
+      "title": "The Rise of the Red Hot Chili Peppers: Our Brother Hillel",
+      "poster": "https://www.mytv-plus.net/image/movies/12122/17dd71d169bd4ef7ffe2c1d1405538f3.png",
+      "keys": [
+        "documentary",
+        "history",
+        "music"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/TheRiseOfTheRedHotChiliPeppersOurBrotherHillel-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/TheRiseOfTheRedHotChiliPeppersOurBrotherHillel-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheRiseOfTheRedHotChiliPeppersOurBrotherHillel-En.srt"
+        }
+      ]
+    },
+    {
+      "id": "12121",
+      "title": "Send Help",
+      "poster": "https://www.mytv-plus.net/image/movies/12121/59e426b7e3d15a9cb74379aca2f46dc3.png",
+      "keys": [
+        "adventure",
+        "horror",
+        "thriller"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/SendHelp-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/SendHelp-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/SendHelp-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/SendHelp-Ku.srt"
+        }
+      ]
+    },
+    {
+      "id": "12120",
+      "title": "Mexicali",
+      "poster": "https://www.mytv-plus.net/image/movies/12120/8d579bd6213ade11b8aef91949d3a44c.png",
+      "keys": [
+        "action",
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/Mexicali-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Mexicali-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Mexicali-En.srt"
+        },
+        {
+          "language": "Kurdish",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ku/2026/Mexicali-Ku.srt"
+        }
+      ]
+    },
+    
     {
       "id": "7244",
       "title": "الفحامين",
