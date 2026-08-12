@@ -62,6 +62,35 @@
         }
       ]
     },
+
+
+
+
+    {
+      "id": "12239",
+      "title": "Rogue 2020",
+      "poster": "https://www.mytv-plus.net/image/movies/12239/71071947522fa32c7b084467d870b4af.jpeg",
+      "keys": [
+        "Kurmançi",
+        "Action"
+      ],
+      "url": "http://m2.twvd537474bvx.shop:2086/movie/313192030763/6a43928f5a2f0/1008076.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/ForbiddenFruits-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/ForbiddenFruits-En.srt"
+        }
+      ]
+    },
+
+
+
+
+    
     {
       "id": "12238",
       "title": "Apex",
