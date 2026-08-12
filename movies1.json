@@ -42,34 +42,13 @@
         }
       ]
     },
-    {
-      "id": "12239",
-      "title": "Forbidden Fruits",
-      "poster": "https://www.mytv-plus.net/image/movies/12239/71071947522fa32c7b084467d870b4af.jpeg",
-      "keys": [
-        "comedy",
-        "horror"
-      ],
-      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/ForbiddenFruits-NoSub.mp4",
-      "subtitles": [
-        {
-          "language": "Arabic",
-          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/ForbiddenFruits-Ar.srt"
-        },
-        {
-          "language": "English",
-          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/ForbiddenFruits-En.srt"
-        }
-      ]
-    },
-
 
 
 
     {
       "id": "12239",
       "title": "Rogue 2020",
-      "poster": "https://www.mytv-plus.net/image/movies/12239/71071947522fa32c7b084467d870b4af.jpeg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmZkZWY5ZjItYjJjYi00MjA3LTk3ZGMtMmFiYzMzYTJlZDNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "keys": [
         "Kurmançi",
         "Action"
