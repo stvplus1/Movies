@@ -102,21 +102,21 @@
     
     {
       "id": "12238",
-      "title": "kurd anime",
-      "poster": "https://www.mytv-plus.net/image/movies/12238/cc71ea29684c02d308831869ab1529b4.png",
+      "title": "Fast and Furious",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQho53bpLLMWj2jdampLeRKPqSaumVEVJywT_EM7As9zw&s=10",
       "keys": [
         "action",
         "thriller"
       ],
-      "url": "https://ok.ru/videoembed//8304569682674?nochat=1&autoplay=1",
+      "url": "http://130.193.165.194/Flussonic247/EnglishMovies1/2009/FastAndFurious-NoSub.mp4",
       "subtitles": [
         {
           "language": "Arabic",
-          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Apex-Ar.srt"
+          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2009/FastAndFurious-Ar.srt"
         },
         {
-          "language": "English",
-          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/Apex-En.srt"
+          "language": "Kurdish",
+          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ku/2009/FastAndFurious-Ku.srt"
         }
       ]
     },
