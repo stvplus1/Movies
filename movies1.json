@@ -21,6 +21,31 @@
         }
       ]
     },
+
+
+
+    {
+      "id": "12243",
+      "title": "Spider Man 2026",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "keys": [
+        "comedy",
+        "drama"
+      ],
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/SpiderManBrandNewDay-NoSub.mp4",
+      "subtitles": [
+        {
+          "language": "Arabic",
+          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2026/SpiderManBrandNewDay-Ar.srt"
+        },
+        {
+          "language": "English",
+          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/En/2026/SpiderManBrandNewDay-En.srt"
+        }
+      ]
+    },
+
+    
     {
       "id": "12240",
       "title": "They Will Kill You",
@@ -548,26 +573,7 @@
         }
       ]
     },
-    {
-      "id": "12216",
-      "title": "Ride Away",
-      "poster": "https://www.mytv-plus.net/image/movies/12216/cf1dc7937dc7f6595dcc9b7bcf7e0f73.png",
-      "keys": [
-        "comedy",
-        "drama"
-      ],
-      "url": "https://www.aparat.com/video/video/embed/videohash/ohhlz18/vt/frame",
-      "subtitles": [
-        {
-          "language": "Arabic",
-          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/Ar/2025/RideAway-Ar.srt"
-        },
-        {
-          "language": "English",
-          "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2025/RideAway-En.srt"
-        }
-      ]
-    },
+    
     {
       "id": "12215",
       "title": "The Whistler",
