@@ -23,16 +23,15 @@
     },
 
 
-
     {
       "id": "12243",
-      "title": "Spider Man 2026 تیس",
+      "title": "Spider Man 20261",
       "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "keys": [
         "comedy",
         "drama"
       ],
-      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/SpiderManBrandNewDay-NoSub.mp4|User-Agent=And$MyTV",
+      "url": "http://130.193.166.118/sss/EnglishMovies1/2026/SpiderManBrandNewDay-NoSub.mp4",
       "subtitles": [
         {
           "language": "Arabic",
@@ -42,7 +41,8 @@
           "language": "English",
           "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/En/2026/SpiderManBrandNewDay-En.srt"
         }
-      ]
+      ],
+      "userAgent": "And$MyTV"
     },
 
 
