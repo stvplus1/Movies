@@ -25,7 +25,7 @@
 
     {
       "id": "12243",
-      "title": "Spider Man 2026w1",
+      "title": "Spider Man 2026",
       "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "keys": [
         "comedy",
@@ -50,26 +50,6 @@
 
     
 
-    {
-      "id": "12243",
-      "title": "Spider Man 2026",
-      "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "keys": [
-        "comedy",
-        "drama"
-      ],
-      "url": "http://130.193.166.120/sss/EnglishMovies1/2026/SpiderManBrandNewDay-NoSub.mp4",
-      "subtitles": [
-        {
-          "language": "Arabic",
-          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2026/SpiderManBrandNewDay-Ar.srt"
-        },
-        {
-          "language": "English",
-          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/En/2026/SpiderManBrandNewDay-En.srt"
-        }
-      ]
-    },
 
     
     {
@@ -123,16 +103,13 @@
 
 
 
-
-    
-
     {
-      "id": "12239",
-      "title": "Moana 2026",
+      "id": "12243",
+      "title": "MOana 2026",
       "poster": "https://upload.wikimedia.org/wikipedia/en/c/c1/Moana_%282026_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
       "keys": [
-        "Kurmançi",
-        "Action"
+        "comedy",
+        "drama"
       ],
       "url": "http://130.193.166.120/sss/EnglishMovies1/2026/Moana-NoSub.mp4",
       "subtitles": [
@@ -141,11 +118,15 @@
           "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Moana-Ar.srt"
         },
         {
-          "language": "English",
-          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ar/2026/Moana-Ar.srt"
+          "language": "Kurdish",
+          "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ku/2026/Moana-Ku.srt"
         }
-      ]
+      ],
+      "userAgent": "And$MyTV"
     },
+
+    
+
 
 
 
