@@ -19,8 +19,10 @@
           "language": "English",
           "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/JemappelleAgneta-En.srt"
         }
-      ]
+      ],
+      "userAgent": "And$MyTV"
     },
+
 
 
     {
@@ -71,8 +73,10 @@
           "language": "English",
           "url": "http://130.193.165.194:80/Flussonic247/EnglishMovies-Subtitle/En/2026/TheyWillKillYou-En.srt"
         }
-      ]
+      ],
+      "userAgent": "And$MyTV"
     },
+
 
 
 
@@ -98,8 +102,10 @@
           "language": "English",
           "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ku/2026/Mutiny-Ku.srt"
         }
-      ]
+      ],
+      "userAgent": "And$MyTV"
     },
+
 
 
 
@@ -150,8 +156,10 @@
           "language": "Kurdish",
           "url": "http://130.193.165.194/Flussonic247/EnglishMovies-Subtitle/Ku/2009/FastAndFurious-Ku.srt"
         }
-      ]
+      ],
+      "userAgent": "And$MyTV"
     },
+
 
 
 
@@ -180,6 +188,9 @@
         }
       ]
     },
+
+
+    
     {
       "id": "12236",
       "title": "Dirty Hands",
